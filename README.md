@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 <td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/NKKNix?cardType=level-alternate&amp;theme=monokai&amp;Text=DDA22A" GitHub Stats" width="100%" /></td>
 <td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/kiadtisakth?cardType=level-alternate&amp;theme=monokai&amp;Text=DDA22A" GitHub Stats" width="100%" /></td>
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NKKNix&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKKNix&layout=compact&theme=pie)
 
 
 
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kawin101&show_icons=true&theme=radical)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wachakon-18k&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKKNick&layout=compact&theme=pie)
