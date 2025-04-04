@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/NKKNix?cardType=level-alternate&amp;theme=monokai&amp;Text=DDA22A" GitHub Stats" width="50%" /></td>
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NKKNix&show_icons=true&theme=radical)
+
+
 
 
 
