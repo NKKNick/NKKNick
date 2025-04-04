@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-<td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/NKKNix?cardType=level-alternate&amp;theme=monokai&amp;Text=DDA22A" GitHub Stats" width="100%" /></td>
+<td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/kawin101?cardType=level-alternate&amp;theme=monokai&amp;Text=DDA22A" GitHub Stats" width="100%" /></td>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKKNix&layout=compact&theme=pie)
 
